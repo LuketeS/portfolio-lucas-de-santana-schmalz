@@ -7,6 +7,10 @@ O objetivo deste projeto é demonstrar minha evolução como desenvolvedor, alé
 
 ---
 
+![Amostra do projeto](https://github.com/user-attachments/assets/687a56a2-55ba-4e02-a67c-4cadbb1dc180)
+
+---
+
 ## 💻 Sobre o Projeto
 
 Este portfólio foi desenvolvido para apresentar:
@@ -48,5 +52,4 @@ Este portfólio foi desenvolvido para apresentar:
 * **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/lucasschmalz/)
 * **E-mail:** [lsschmalz@gmail.com](mailto:lsschmalz@gmail.com)
 
----
 
